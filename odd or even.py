@@ -1,5 +1,6 @@
-num = int(input("Enter a number: "))
-if num % 2 == 0:
-    print("Number is even")
+# Program to check if a number is odd or even
+number = int(input("Enter a number: "))
+if number % 2 == 0:
+    print("The number is even")
 else:
-    print("Number is odd")
+    print("The number is evem")
