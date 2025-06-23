@@ -1,0 +1,1 @@
+This repository contains the code for the introductory Python programming class. It includes foundational examples and exercises covering topics like variables, conditionals, loops, functions, and basic input/output
