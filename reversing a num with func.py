@@ -1,4 +1,4 @@
-# Function to reverse a number
+
 def reverse_number(number):
     reversed_num = 0
     while number > 0:
@@ -8,8 +8,8 @@ def reverse_number(number):
     return reversed_num
 
 
-# Prompt the user to input a number
+
 num = int(input("Enter a number: "))
 
-# Calculate and display the reversed number
+
 print(f"The reversed number is {reverse_number(num)}.")
